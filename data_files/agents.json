@@ -1,0 +1,18 @@
+{
+  "86b71bacfa9c": {
+    "id": "86b71bacfa9c",
+    "name": "Полезный ассистент (дипсик)",
+    "provider": "deepseek",
+    "model": "deepseek-v4-pro",
+    "temperature": 0.7,
+    "max_tokens": 3000,
+    "system_prompt": "Ты — полезный ассистент. Отвечай по-русски.",
+    "keep_session_history": true,
+    "keep_user_history": true,
+    "summarize_after": 0,
+    "count_tokens": true,
+    "timeout": 0,
+    "gigachat_scope": "",
+    "gigachat_verify_ssl": false
+  }
+}
